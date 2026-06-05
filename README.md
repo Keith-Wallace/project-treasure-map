@@ -1,4 +1,4 @@
-# project-treaure-map
+# project-treasure-map
 This project is a simple React + Vite frontend and supabase for backend.
 
 ## React + Vite
