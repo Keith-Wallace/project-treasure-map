@@ -12,7 +12,7 @@ export default defineConfig({
     babel({ presets: [reactCompilerPreset()] })
   ],
 
-  define: {
-    "process.env": process.env,
-  },
+  // define: {
+  //   "process.env": process.env,
+  // },
 })
